@@ -3,7 +3,7 @@ Awesome Unity
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
@@ -45,6 +45,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
+* [Crystal AI](https://theldoctor.github.io/CrystalAI/) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 * [Rain](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
 
 
@@ -63,6 +64,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Frameworks
 
+* [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+* [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
@@ -105,12 +108,14 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
-##UI
+## UI
 
 * [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
+* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
 
 ## Utilities
 
+* [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
